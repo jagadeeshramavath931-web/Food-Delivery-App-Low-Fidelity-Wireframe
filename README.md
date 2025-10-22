@@ -75,5 +75,3 @@ The **bottom navigation bar** (`Home | Orders | Cart | Settings`) ensures smooth
 [👉 Food Delivery App – Low-Fidelity Wireframe on Figma](https://www.figma.com/design/rGdQpaNIW93xdRqUGyPu8O/%C2%A0Elevate%C2%A0Labs?node-id=66-18&t=MQqH9Z8hysGD6Xv5-1)
 
 ---
-
----
